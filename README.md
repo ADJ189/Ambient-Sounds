@@ -1,4 +1,5 @@
-# session-clock-sounds
+# Ambient Sounds
+-----------------------
 
 Recorded ambient audio for [Session Clock](https://github.com/ADJ189/Session-clock) —
 kept in this separate, lightweight repo instead of the main app's git
